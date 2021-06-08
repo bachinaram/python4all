@@ -1,0 +1,42 @@
+Assignment1
+Homework1
+#print assignment - 1,2
+#use print function to print below output
+#assignment1
+
+********************************
+*********Welcome class**********
+________________________________
+**This is your first assigment**
+________________________________
+********************************
+
+
+
+#assignment2
+
+********************************
+________________________________
+Program     - program_file_name
+Developer   - xyz
+Date        - DD/MM/YYYY
+Usage       - Write about something
+________________________________
+********************************
+
+
+
+# Homework2
+# print output in below format with single line of code
+# classes:
+#         class1
+#         class2
+#         class3
+
+# classes:
+#         class1
+#               PYTHON CLASS
+#         class2
+#                JAVA CLASS
+#         class3
+#                C CLASS
