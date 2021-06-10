@@ -1,0 +1,44 @@
+Homework1
+
+Write a program to to take two user inputs and assign two inputs to different variables
+And finally concatenate two variables with comma separated and assign it to new variable and print third variable
+Note
+1. Take two user string inputs
+2. Assign two inputs to two variables
+3. create third variable and assign by adding two variables with comma separated
+4. Print final third variable
+
+HINTS - 
+use input() to read from user
+for third variable var3=var1+","+var2
+
+Program execution should look like this
+python assigment3a.py
+***************************************************
+Now program is going to take two user inputs
+____________________________________
+Enter your city: Hyderabad
+Enter your State: Telangana
+***************************************************
+Your City and State: Hyderabad,Telengana 
+***************************************************
+
+Homework2
+
+Write a program to take three user inputs and add three inputs and display output
+Note
+1. All inputs must be numeric values
+2. First two user input values are integers
+3. third user input value must be float
+
+HINT -
+Type cast input to int() and float()
+
+program execution should look like this
+python assignment3b.py
+
+Enter Number1:10
+Enter Number2:20
+Enter Float Number:40.55
+Output is: 70.55
+
