@@ -1,0 +1,38 @@
+HOMEWORK1
+
+Write a program to take 3 inputs(use input for three values) and display names as output
+E.g.,
+input
+Enter student name1:
+Enter student name2:
+Enter student name3:
+Output
+Student1 Name is: John
+Student2 Name is: Joy
+Student3 Name is: Jack
+
+
+HOMEWORK2
+Write a program to play around with variables as mentioned in below steps
+
+1. Create global variable age (not in function)
+2. Use the global variable in function1 and print it(create function1 and print it)
+3. Modify the global variable in function2 and print it(create new function function2 and modify the global variable and print it)
+4. Create a new function3 and add global keyword to age and modify the age in function3
+5. Print age outside the functions
+
+Initial input 
+20
+Function2 input
+30
+Function3 input 
+40
+
+
+Output should look like this
+Function1 output:20
+Function2 output:30
+Function3 output:40
+Outside function output:40
+
+
