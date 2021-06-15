@@ -1,0 +1,28 @@
+Homework1
+
+Who is rich? Write a program to find out who is rich between two persons
+
+1. Create two users using variables person1, person2 and person3 and assign names as  “Virat” and “Sachin”
+
+2. Create another two variables virat_money and sachin_money and assign integers as 100 and 150
+
+3. 
+  a. Check if virat_money greater than sachin_money in this case print “Virat is Rich”
+  b. Check else if sachin_money is greater than virat_money in this case print “Sachin is Rich”
+  c. Else print Both Virat and Sachin are rich
+
+Note: while printing don’t hardcode strings like Sachin/Virat use variables like person1 and person2 in print statements
+
+
+
+Homework2
+Write a another program to find who is "Rich"
+
+
+1. Create two users using variables person1, person2 and person3 and assign names as  “Virat” and “Sachin”
+
+2. Create another two variables virat_money and sachin_money and assign integers as 100 and 150
+
+3. write only one line if else (hint: iternary operator approach in python) to print output
+  a. if sachin_money has more money then print "Sachin is Rich" else print "Virat is Rich"
+ 
