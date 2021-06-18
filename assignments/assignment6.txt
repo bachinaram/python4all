@@ -1,0 +1,25 @@
+'''
+HOMEWORK1
+convert list of list to list 
+
+create a variable and assign list of lists [[1,2,3],[45,34,89],["sneha","suresh","ankith"]]
+Now convert list of lists in to single list eg., [1, 2, 3, 45, 34, 89, 'sneha', 'suresh', 'ankith']
+to solve this problem you cna use nested for but use it with list comprehension
+
+your output should look like this [1, 2, 3, 45, 34, 89, 'sneha', 'suresh', 'ankith']
+
+HOMEWORK2
+Write a program to find give list contains string or integer
+Note - There are many ways to find given data in variable in string or not but this examples helps to test your understanding 
+on list comprehension and for loop and if conditions. So, please follow the same approach mention below to solve the problem
+
+use the output of homework1 list comprehension list
+[1, 2, 3, 45, 34, 89, 'sneha', 'suresh', 'ankith'] as input
+now create for loop to list all elements
+inside for llo write if condition to check element is sneha or element is suresh or element is ankith if true then 
+print "element sneha is a string"/"element ankith is a string"/"element suresh is a string"
+
+else print
+element {element} might be an int e.g, element 1 might be an int
+
+'''
