@@ -9,3 +9,6 @@ How to approach the course?
 2.  Second open python programs and execute the py files and practice more 
 3.  Try assignment txt files for questions to test you knowledge, 
     assignment answers are also added in same assignments directory.
+
+Author - https://www.linkedin.com/in/ram-bachina-89499631/
+Email - bachinaram@aol.com
