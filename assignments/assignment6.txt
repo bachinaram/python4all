@@ -16,7 +16,7 @@ on list comprehension and for loop and if conditions. So, please follow the same
 use the output of homework1 list comprehension list
 [1, 2, 3, 45, 34, 89, 'sneha', 'suresh', 'ankith'] as input
 now create for loop to list all elements
-inside for llo write if condition to check element is sneha or element is suresh or element is ankith if true then 
+inside for loop write if condition to check element is sneha or element is suresh or element is ankith if true then 
 print "element sneha is a string"/"element ankith is a string"/"element suresh is a string"
 
 else print
