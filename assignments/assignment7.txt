@@ -1,0 +1,13 @@
+homework1
+Write a program to find count of domain "uct.ac.za"?
+msg="From sender to stephen.marquard@uct.ac.za using \n Hellosp gaurav.kumar@uct.ac.za \n Hellosp gaurav.kumar@uct.ac.za \n"
+output - 3
+
+homework2
+write program to user.name from the given input string
+msg="From sender to stephen.marquard@uct.ac.za using \n Hellosp gaurav.kumar@uct.ac.za \n Hellosp sunil.kumar@uct.ac.za \n"
+output - 
+
+stephen.marquard
+gaurav.kumar
+sunil.kumar
